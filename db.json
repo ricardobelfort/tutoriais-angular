@@ -1,0 +1,70 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "title": "Potência Tech Angular Developer",
+      "category": "Frontend",
+      "author": "Leonardo Moreira",
+      "company": "iFood",
+      "plan": "Free",
+      "level": "Intermediary",
+      "duration": 75,
+      "thumbUrl": "https://hermes.dio.me/tracks/cover/6a079d25-c4fd-4de0-b1aa-670e6f349fed.png"
+    },
+    {
+      "id": 2,
+      "title": "Primeiros passos com ReactJS",
+      "category": "Frontend",
+      "author": "Diego Fernandes",
+      "company": "Rocketseat",
+      "plan": "Free",
+      "level": "Basic",
+      "duration": 36,
+      "thumbUrl": "https://hermes.dio.me/courses/cover/f39bf5c7-161f-4af1-a4dd-9e7aad472c7c_cover.png"
+    },
+    {
+      "id": 3,
+      "title": "VueJS Beginner",
+      "category": "Frontend",
+      "author": "Maike Brito",
+      "company": "DIOme",
+      "plan": "PRO",
+      "level": "Advanced",
+      "duration": 320,
+      "thumbUrl": "https://hermes.dio.me/lab_projects/61909378-2409-411d-959f-31040fca0f03.png"
+    },
+    {
+      "id": 4,
+      "title": "C/C++ Developer",
+      "category": "Backend",
+      "author": "Maike Brito",
+      "company": "Alura",
+      "plan": "PRO",
+      "level": "Intermediary",
+      "duration": 42,
+      "thumbUrl": "https://hermes.dio.me/tracks/cover/bd9df6ae-ffb3-43f1-beb5-4308ecba6aaa.png"
+    },
+    {
+      "id": 5,
+      "title": "JAVA Developer",
+      "category": "Backend",
+      "author": "Maike Brito",
+      "company": "Alura",
+      "plan": "PRO",
+      "level": "Intermediary",
+      "duration": 76,
+      "thumbUrl": "https://hermes.dio.me/tracks/cover/747381fb-2e07-491f-a67d-4ecf09c273d9.png"
+    },
+    {
+      "id": 6,
+      "title": ".NET Developer",
+      "category": "Backend",
+      "author": "Maike Brito",
+      "company": "Alura",
+      "plan": "PRO",
+      "level": "Intermediary",
+      "duration": 93,
+      "thumbUrl": "https://hermes.dio.me/tracks/cover/cc3fc9c1-75cf-43c6-94b4-032fc5a17277.png"
+    }
+  ]
+}
